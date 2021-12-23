@@ -10,4 +10,4 @@
 
 ### 海报
 
-![海报](./poster_NRSB.pdf)
+![海报](https://github.com/ZhaoCenLiang/Seasonal-LUEmax-simulation/blob/main/poster_NRSB.pdf)

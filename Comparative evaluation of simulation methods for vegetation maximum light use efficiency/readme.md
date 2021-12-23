@@ -27,6 +27,4 @@
   <br> 记录了MODIS-LUE使用动态LUE参数 (基于马尔科夫链蒙特卡洛模拟, MCMC) 计算的总初级生产力 单位 [ g·C·m<sup>-2</sup>·day<sup>-1</sup> ]
 <br>
 
-### 三种动态LUEmax参数的月变化
 
-![三种动态LUEmax参数的月变化](https://github.com/ZhaoCenLiang/NRSB_Paper-dataset/blob/main/Comparative%20evaluation%20of%20simulation%20methods%20for%20vegetation%20maximum%20light%20use%20efficiency/Monthly%20variation%20pattern%20of%20three%20dynamic%20LUEmax%20parameters.jpg)

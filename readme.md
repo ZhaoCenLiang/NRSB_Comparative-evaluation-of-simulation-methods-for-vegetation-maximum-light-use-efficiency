@@ -1,6 +1,9 @@
-## Introduction
-* This project contains the dataset and part of the code of an article on seasonal LUE<sub>max</sub> simulation
-<br>
+## Comparison of different seasonal simulation methods for LUE
+Light use efficiency model is one of parametric models for estimating vegetation productivity based on remote sensing data. Its core parameter, maximum light use efficiency ( LUE<sub>max</sub> ), was considered as a fixed value for all vegetation types in the early stage (e.g., CASA). Moreover, it had become a  various parameter with vegetation types since MODIS-LUE model, and recently it was considered to be dynamic with the phenology and physiological status of vegetation.
+<br><br>
+Although current vegetation productivity estimation models based on seasonally dynamic LUE<sub>max</sub> has showed a relatively higher accuracy, these studies were mostly limited in fewer vegetation types or smaller scales. Therefore, the applicability of different dynamic LUE<sub>max</sub> are not clear in wider areas. 
+<br><br>
+We assessed three typical dynamic LUEmax parameter simulation methods (which based on Chlorophyll Index, Leaf Area Index and Markov Chain Monte Carlo) by using the same dataset (FLUXNET 2015 dataset) and model structure (MODIS-LUE model structure).
 
 ### Article
 * Title:  Comparative evaluation of simulation methods for vegetation maximum light use efficiency 

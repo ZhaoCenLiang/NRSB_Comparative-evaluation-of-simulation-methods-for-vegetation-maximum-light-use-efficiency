@@ -1,5 +1,5 @@
 ## Comparison of different seasonal simulation methods for LUE<sub>max</sub>
-Light use efficiency model is one of parametric models for estimating vegetation productivity based on remote sensing data. Its core parameter, maximum light use efficiency ( LUE<sub>max</sub> ), was considered as a fixed value in the early stage (e.g., CASA). Moreover, it had become a parameter varying with vegetation types since MODIS-LUE model (MOD17), and recently it was considered to be dynamic with the phenology and physiological status of vegetation.
+Light use efficiency model is one of the parametric models for estimating vegetation productivity based on remote sensing data. Its core parameter, maximum light use efficiency ( LUE<sub>max</sub> ), was considered as a fixed value in the early stage (e.g., CASA). Moreover, it had become a parameter varying with vegetation types since MODIS-LUE model (MOD17), and recently it was considered to be dynamic with the phenology and physiological status of vegetation.
 <br><br>
 Although current vegetation productivity estimation models based on seasonally dynamic LUE<sub>max</sub> has showed a relatively higher accuracy, their studies were still limited in fewer vegetation types or smaller scales. Therefore, the applicability of different dynamic LUE<sub>max</sub> are not very clear in wider areas. 
 <br><br>
